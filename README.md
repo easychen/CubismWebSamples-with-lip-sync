@@ -1,7 +1,7 @@
 
 带口型同步的 Live2D Web Demo
 
-
+> 由于 CubismWebSamples 属于 Live2D Opensoft 授权，你必须同意他们的协议才能使用
 
 # 关于 lip sync
 
