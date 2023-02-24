@@ -10,6 +10,8 @@
 
 因此把这个调整过的demo放出来，供有同样需求的同学参考。
 
+PS: `Samples/TypeScript/Demo/src/lappwavfilehandler.ts` 文件中（ 247行 ）有详细的读取音频文件数据并生成口型数据的逻辑，可供参考。
+
 点下图查看实际测试例子：
 
 [![](images/20230224161538.png)](./demo.mp4)
