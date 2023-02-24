@@ -1,0 +1,62 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@easychen 
+Live2D
+/
+CubismWebSamples
+Public
+Fork your own copy of Live2D/CubismWebSamples
+Code
+Pull requests
+Security
+Insights
+CubismWebSamples/.gitignore
+@wada-at-live2d-com
+wada-at-live2d-com Update to Cubism 4 SDK for Web R2
+Latest commit 4902c91 on Mar 9, 2021
+ History
+ 5 contributors
+@cubism-dev@koyama-at-live2d-com@wada-at-live2d-com@itoh-at-live2d-com@cocor-au-lait
+20 lines (20 sloc)  294 Bytes
+
+# Core directory files
+/Core/**/.js
+/Core/**/.ts
+# Package files
+node_modules/
+# Build files
+build/
+dist/
+# Other files
+temp/
+.vs/
+.idea/
+*.iml
+.DS_Store
+# Exclude some VSCode setting files.
+.vscode/*
+!/.vscode/extensions.json
+!/.vscode/launch.json
+!/.vscode/settings.json
+!/.vscode/tasks.json
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+CubismWebSamples/.gitignore at develop · Live2D/CubismWebSamples
